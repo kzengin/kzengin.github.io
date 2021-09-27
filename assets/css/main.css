@@ -2563,12 +2563,6 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
-			
-		.influenza {
-			position: absolute;
-			top: 60px;
-			left: 80px;
-		}
 
 /* List */
 
@@ -4121,4 +4115,5 @@ input, select, textarea {
 						margin: 0;
 						padding: 0;
 					}
+
 	}
